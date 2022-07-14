@@ -1,0 +1,46 @@
+.body_se{
+    background: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?t=st=1656773564~exp=1656774164~hmac=aa6387df7ce6207691aeb83673a04266e8bfb73430fa9739a56f684f17cf267b&w=1380);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#maindiv{
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    background-color: rgba(3, 3, 3, 0.265);
+    padding: 180px 73px;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin: 70px 110px;
+    opacity: 10px ;
+    
+}
+.main{
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    
+
+}
+.logo{
+    width: 30px;
+    height: 50px;
+}
+.sec_left
+{
+    text-align: left;
+    padding: 20px 20px;
+    margin-top: 56px;
+    
+    
+}
+.sec_right
+{
+    text-align: left;
+    padding: 20px 20px;
+    
+}
+.butt{
+    display: flex;
+    justify-content: space-between;
+}
